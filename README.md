@@ -4,6 +4,7 @@ The foods of today contain less nutrients than those of past decades, according 
 
 What follows is a quick summary of my findings, illustrated with a few key data visualizations—because in my research, I found a lack of visual displays of what, exactly, is going on.
 
+ 
 **The Evidence**
 
 Much of the concern over the decline in nutritional quality of foods dates back to a landmark [2004 research paper](https://www.tandfonline.com/doi/abs/10.1080/07315724.2004.10719409). The paper, which looked at USDA food composition data from 1950 to 1999, found declines in multiple key nutrients. Multiple papers have since found similar declines, including a [2014 Nature paper](https://www.nature.com/articles/nature13179), a [2014 eLife paper](https://elifesciences.org/articles/02245), a [2017 Environmental Health Perspectives paper](https://ehp.niehs.nih.gov/doi/10.1289/EHP41), and [a 2024 Foods review](https://pmc.ncbi.nlm.nih.gov/articles/PMC10969708/).
@@ -20,12 +21,13 @@ I again pulled the data into a spreadsheet and visualized it using Flourish. [Th
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/20821562"><noscript><img src="https://public.flourish.studio/visualisation/20821562/thumbnail" width="100%" alt="chart visualization" /></noscript></div>
 
-
+  
  
 While [this chart](https://public.flourish.studio/visualisation/20822418/) shows the decline in nutrients in vegetables:
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/20822418"><noscript><img src="https://public.flourish.studio/visualisation/20822418/thumbnail" width="100%" alt="chart visualization" /></noscript></div>
 
+  
 **What It Means**
 
 Pinpointing why and how nutrients might be declining in foods, and what it means, is more murky.
